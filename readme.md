@@ -2,7 +2,7 @@
 This repository contains the Ovid (OpenStreetMap Vandalism Detection) model source code and vandalism labels data extracted from OpenStreetMap (https://www.openstreetmap.org/).
 
 The source code is available under the MIT license. 
-The vandalism label data is available under the [Open Database License (ODbL)] (https://opendatacommons.org/licenses/odbl/summary/).
+The vandalism label data is available under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/summary/).
 
 # Ovid Model
 The Ovid model combines a set of selected features with a neural network architecture that adopts a multi-head attention mechanism to summarize information indicating vandalism from OpenStreetMap changesets effectively.
